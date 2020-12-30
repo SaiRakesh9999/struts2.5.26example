@@ -1,0 +1,1 @@
+# struts2.5.26example
